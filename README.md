@@ -1,3 +1,4 @@
+
 About MeMy name is Haru
 Swift is really cool!
 I love learning Swift!
@@ -19,3 +20,5 @@ wait why didnt this load
 
 what the acutal fuck
 
+
+okay so this should work
