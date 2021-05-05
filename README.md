@@ -11,3 +11,7 @@ git commit -m "message goes here" - how to commit to git with required message
 git diff - shows difference between new and last commit
 
 
+i dont know why the formatting is so different ? lol ooops
+
+wait why didnt this load
+
